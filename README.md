@@ -6,7 +6,7 @@
 
 <p align="center">
   <strong>Ph.D. Candidate in Statistics</strong><br>
-  ENSAI – CREST / IRMAR, France
+  CREST-ENSAI, France
 </p>
 
 <p align="center">
@@ -18,7 +18,7 @@
 ---
 
 ## Profile
-I am a **Ph.D. candidate in Statistics** at **ENSAI – CREST / IRMAR (France)**.  
+I am a **Ph.D. candidate in Statistics** at **CREST-ENSAI (France)**.  
 My research focuses on **model-based clustering**, **mixture models**, and **marked spatio-temporal point processes**, with applications in **sports analytics**, particularly football event data.
 
 My work lies at the intersection of **statistical theory**, **computational methods**, and **applied data science**, with an emphasis on reproducible research.
