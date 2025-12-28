@@ -1,98 +1,102 @@
-Koffi Amezouwui — Statistical Modeling & Data Science
+# Koffi Amezouwui
 
-👋 About Me
+<p align="center">
+  <img src="assets/photo.jpg" width="180" style="border-radius: 50%;">
+</p>
 
-I am a Ph.D. candidate in Statistics at ENSAI – CREST / IRMAR (France).
-My research focuses on model-based clustering, mixture models, and spatio-temporal point processes, with applications to sports analytics, particularly football event data and virtual environment population.
+<p align="center">
+  <strong>Ph.D. Candidate in Statistics</strong><br>
+  ENSAI – CREST / IRMAR, France
+</p>
 
-I am strongly interested in bridging statistical theory, computational methods, and real-world applications, with a solid background in probability, statistical learning, and programming.
+<p align="center">
+  📧 <a href="mailto:koffi.amezouwui@ensai.fr">koffi.amezouwui@ensai.fr</a> |
+  🔗 <a href="https://www.linkedin.com/">LinkedIn</a> |
+  📄 <a href="assets/Research_CV.pdf">CV (PDF)</a>
+</p>
 
-🔬 Research Interests
+---
 
-Model-based clustering and mixture models
+## Profile
+I am a **Ph.D. candidate in Statistics** at **ENSAI – CREST / IRMAR (France)**.  
+My research focuses on **model-based clustering**, **mixture models**, and **marked spatio-temporal point processes**, with applications in **sports analytics**, particularly football event data.
 
-Marked spatio-temporal point processes
+My work lies at the intersection of **statistical theory**, **computational methods**, and **applied data science**, with an emphasis on reproducible research.
 
-Statistical learning (supervised & unsupervised)
+---
 
-Sports analytics (football event sequences)
+## Research Interests
+- Model-based clustering and mixture models  
+- Marked spatio-temporal point processes  
+- Statistical learning (supervised & unsupervised)  
+- Sports analytics and event data  
+- Dimensionality reduction  
 
-Dimensionality reduction
+---
 
-Statistical computing and reproducible research
+## Publications & Preprints
+- **Amezouwui, K.**, Gelein, B., Marbac, M., Sorel, A. (2025)  
+  *Model-Based Clustering of Football Event Sequences: A Marked Spatio-Temporal Point Process Mixture Approach*  
+  **Preprint**, arXiv:2511.14297v1 — Statistics > Applications  
+  🔗 https://arxiv.org/abs/2511.14297
 
-📄 Publications & Preprints
+---
 
-Amezouwui, K., Gelein, B., Marbac, M., Sorel, A. (2025)
-Model-Based Clustering of Football Event Sequences: A Marked Spatio-Temporal Point Process Mixture Approach
-Preprint, arXiv:2511.14297v1 — Statistics > Applications
-🔗 https://arxiv.org/abs/2511.14297
+## Conferences & Presentations
+- **CFE–CMStatistics 2025** — *Oral Presentation*  
+  *Model-Based Clustering of Football Event Sequences*  
+  London, United Kingdom (13–15 December 2025)  
+  🔗 https://www.cmstatistics.org/
 
-🎤 Conferences & Presentations
+- **Journées de Statistique (JdS) 2025** — *Oral Presentation*  
+  *Model-Based Clustering of Football Event Sequences*  
+  Marseille, France (1–6 June 2025)  
+  🔗 https://jds2025.sciencesconf.org/
 
-CFE–CMStatistics 2025 — Oral Presentation
-Model-Based Clustering of Football Event Sequences
-London, United Kingdom (13–15 December 2025)
-🔗 https://www.cmstatistics.org/
+- **University of Rome “La Sapienza”** — Winter School  
+  *Statistical Methods for Unsupervised and Supervised Learning with Dimensionality Reduction*  
+  Rome, Italy (February 2024)
 
-Journées de Statistique (JdS) 2025 — Oral Presentation
-Model-Based Clustering of Football Event Sequences
-Marseille, France (1–6 June 2025)
-🔗 https://jds2025.sciencesconf.org/
+---
 
-University of Rome “La Sapienza” — Winter School
-Statistical Methods for Unsupervised and Supervised Learning with Dimensionality Reduction
-Rome, Italy (February 2024)
+## Education
+- **Ph.D. in Statistics** (2023–Present)  
+  ENSAI – CREST / IRMAR, France  
+  Advisors: Matthieu Marbac, Brigitte Gelein, Anthony Sorel  
 
-🎓 Education
+- **M.Sc. in Statistics** (2021–2023)  
+  University of Strasbourg, France  
 
-Ph.D. in Statistics (2023–Present)
-ENSAI – CREST Rennes, France
-Advisors: Matthieu Marbac, Brigitte Gelein, Anthony Sorel
-Research: Clustering and analysis of football game situations
+- **M.Sc. in Statistics & Probability** (2019–2021)  
+  Institut de Mathématiques et de Sciences Physiques (IMSP), Benin  
 
-M.Sc. in Statistics (2021–2023)
-University of Strasbourg, France
+- **B.Sc. in Mathematics** (2013–2017)  
+  University of Lomé, Togo  
 
-M.Sc. in Statistics & Probability (2019–2021)
-Institut de Mathématiques et de Sciences Physiques (IMSP), Benin
+---
 
-B.Sc. in Mathematics (2013–2017)
-University of Lomé, Togo
+## Teaching Experience
+- **ENSAI (France)** — Teaching Assistant  
+  Inferential Statistics (1st year), Statistical Modeling (2nd year)
 
-🧪 Academic & Data Science Projects
+- **Lycée de Djagblé (Togo)** — Mathematics Teacher  
 
-Machine Learning: comparison of classification methods (R)
+---
 
-Development of an R package for time series modeling (ARMA, VAR)
+## Skills
+- **Programming:** R, Python, SAS  
+- **Statistics:** inference, regression, clustering, machine learning  
+- **Tools:** tidyverse, reproducible research workflows  
 
-Statistical modeling with Python, R, and SAS
+---
 
-Multiple imputation using non-parametric regression
+## Languages
+- French  
+- English  
 
-💻 Technical Skills
+---
 
-Programming: R, Python, SAS
+## References
+- **Matthieu Marbac** — Assistant Professor, UBS (France)  
+- **Brigitte Gelein** — Associate Professor, ENSAI / IRMAR (France)  
 
-Statistics: inference, regression, clustering, ML
-
-Tools: tidyverse, reproducible research workflows
-
-🌍 Languages
-
-French (fluent)
-
-English (professional)
-
-🔗 Contact & Profiles
-
-📧 Email: koffi.amezouwui@ensai.fr
-
-🔗 LinkedIn: https://www.linkedin.com/in/koffi-amezouwui-3ba30021b/
-
-
-📌 References
-
-Matthieu Marbac — Assistant Professor, UBS (France)
-
-Brigitte Gelein — Associate Professor, ENSAI / IRMAR (France)
