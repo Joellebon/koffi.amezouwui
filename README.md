@@ -88,7 +88,7 @@ English (professional)
 
 📧 Email: koffi.amezouwui@ensai.fr
 
-🔗 LinkedIn: https://www.linkedin.com/
+🔗 LinkedIn: https://www.linkedin.com/in/koffi-amezouwui-3ba30021b/
 
 
 📌 References
