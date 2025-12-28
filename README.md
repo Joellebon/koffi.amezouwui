@@ -90,7 +90,6 @@ English (professional)
 
 🔗 LinkedIn: https://www.linkedin.com/
 
-📄 Research CV: (add link to PDF here)
 
 📌 References
 
