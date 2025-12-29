@@ -11,7 +11,7 @@
 
 <p align="center">
   📧 <a href="mailto:koffi.amezouwui@ensai.fr">koffi.amezouwui@ensai.fr</a> |
-  🔗 <a href="https://www.linkedin.com/">LinkedIn</a> |
+  🔗 <a href="https://www.linkedin.com/in/koffi-amezouwui-3ba30021b/">LinkedIn</a> |
   📄 <a href="assets/Research_CV.pdf">CV (PDF)</a>
 </p>
 
@@ -61,7 +61,7 @@ My work lies at the intersection of **statistical theory**, **computational meth
 
 ## Education
 - **Ph.D. in Statistics** (2023–Present)  
-  ENSAI – CREST / IRMAR, France  
+  CREST-ENSAI, France  
   Advisors: Matthieu Marbac, Brigitte Gelein, Anthony Sorel  
 
 - **M.Sc. in Statistics** (2021–2023)  
