@@ -29,7 +29,7 @@ My work lies at the intersection of **statistical theory**, **computational meth
 - Model-based clustering and mixture models  
 - Marked spatio-temporal point processes  
 - Statistical learning (supervised & unsupervised)  
-- Sports analytics and event data  
+- Sports (football) data analytics  
 ---
 
 ## Publications & Preprints
