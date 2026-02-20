@@ -12,7 +12,7 @@
 <p align="center">
   📧 <a href="mailto:koffi.amezouwui@ensai.fr">koffi.amezouwui@ensai.fr</a> |
   🔗 <a href="https://www.linkedin.com/in/koffi-amezouwui-3ba30021b/">LinkedIn</a> |
-  📄 <a href="assets/Research_CV.pdf">CV (PDF)</a>
+  📄 <a href="assets/CV.pdf">CV (PDF)</a>
 </p>
 
 ---
