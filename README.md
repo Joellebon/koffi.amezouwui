@@ -1,7 +1,7 @@
 # Koffi Amezouwui
 
 <p align="center">
-  <img src="assets/ENSAI.jpg" width="180" style="border-radius: 50%;">
+  <img src="assets/ENSAI_koffi.png" width="180" style="border-radius: 50%;">
 </p>
 
 <p align="center">
