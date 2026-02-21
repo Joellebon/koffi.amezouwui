@@ -74,11 +74,15 @@ My work lies at the intersection of **statistical theory**, **computational meth
 ---
 
 ## Teaching Experience
+
 - **ENSAI (France)** — Teaching Assistant  
-  Inferential Statistics (1st year), Statistical Modeling (2nd year)
+  Tutorials in Inferential Statistics (1st year) and Practical Sessions in Statistical Modeling (2nd year)  
+  Total teaching volume: 64 hours (36h tutorials, 28h practical sessions)  
+  Pedagogical Training: Open Badge — Teaching in Higher Education, French Ministry of Higher Education (MESR), 2025  
+  [Open Badge Credential](https://openbadgefactory.com/v1/assertion/9d917690086c21273eaaaca3a6f124541f264894)
 
 - **Lycée de Djagblé (Togo)** — Mathematics Teacher  
-
+  Teaching mathematics at secondary level (Seconde to Terminale) and designing pedagogical materials
 ---
 
 ## Skills
