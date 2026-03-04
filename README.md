@@ -18,10 +18,11 @@
 ---
 
 ## Profile
-I am a **Ph.D. candidate in Statistics** at **CREST-ENSAI (France)**.  
-My research focuses on **model-based clustering**, **mixture models**, and **marked spatio-temporal point processes**, with applications in **sports analytics**, particularly football data.
+I have been a PhD student in Statistics at ENSAI/CREST (Bruz, France) since 2023, under the supervision of Matthieu Marbac (Université Bretagne Sud, Vannes), Brigitte Gelein (ENSAI) and Anthony Sorel (University Rennes 2). My research focuses on the analysis and classification of football game situations, with the goal of populating virtual environments from match data.
 
-My work lies at the intersection of **statistical theory**, **computational methods**, and **applied data science**, with an emphasis on reproducible research.
+My work lies at the intersection of unsupervised learning (clustering) and probabilistic modelling, with a particular interest in mixture models. I also investigate spatio-temporal point processes and, more broadly, statistical learning methods for sports analytics. Methodologically, my research combines model development, algorithmic implementation, and empirical evaluation on real-world datasets, aiming to build robust representations of game dynamics and meaningful segmentations of play situations.
+
+In addition to research, I am involved in teaching in probability and statistics, statistical inference, statistical modelling, and data analysis. I also teach statistical learning and data science, as well as statistical programming in R and Python.
 
 ---
 
@@ -96,9 +97,5 @@ My work lies at the intersection of **statistical theory**, **computational meth
 - French  
 - English  
 
----
 
-## References
-- **Matthieu Marbac** — Assistant Professor, UBS (France)  
-- **Brigitte Gelein** — Associate Professor, ENSAI / IRMAR (France)  
 
